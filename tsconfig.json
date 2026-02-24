@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "bundler",
+
+    // trying with NodeNext doesn't work either
+    // "module": "NodeNext",
+
+    "outDir": "./dist"
+  }
+}
